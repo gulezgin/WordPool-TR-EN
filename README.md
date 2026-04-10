@@ -178,12 +178,12 @@ My Word Pool is a **SRS (Spaced Repetition System)** based vocabulary learning a
 #### Online (Easiest)
 Open directly in your browser:
 ```
-https://kelime-havuzum.netlify.app
+
 ```
 
 #### Local Setup
 ```bash
-git clone https://github.com/yourusername/kelime-havuzum.git
+git clone https://gulezgin/WordPool-TR-EN.git
 cd kelime-havuzum
 open index.html  # or start index.html on Windows
 ```
