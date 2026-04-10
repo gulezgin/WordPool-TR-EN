@@ -39,14 +39,14 @@ Kelime Havuzum, İngilizce öğrenenler için geliştirilmiş, **SRS (Spaced Rep
 #### Çevrimiçi (En kolay)
 Direkt olarak tarayıcınızda açın:
 ```
-https://kelime-havuzum.netlify.app
+
 ```
 *veya local dosyayı açın*
 
 #### Local Kurulum
 1. Deposu klonlayın:
 ```bash
-git clone https://github.com/yourusername/kelime-havuzum.git
+git clone https://github.com/gulezgin/WordPool-TR-EN.git
 cd kelime-havuzum
 ```
 
