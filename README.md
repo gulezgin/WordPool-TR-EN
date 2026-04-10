@@ -1,3 +1,4 @@
+<img width="1903" height="938" alt="Ekran görüntüsü 2026-04-10 153619" src="https://github.com/user-attachments/assets/0738b0be-e21e-40df-8377-4e598b2a8843" />
 # Kelime Havuzum (My Word Pool)
 
 [🇬🇧 English](#english--0) | [🇹🇷 Türkçe](#türkçe)
